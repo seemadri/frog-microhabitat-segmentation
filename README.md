@@ -59,8 +59,9 @@ python pipelines/02_westernport_tile_stitcher.py
 ```bash
 python pipelines/03_sentinel2_ndvi_baseline.py
 ```
-
 ---
+
+![Quail Island Classified Habitat](figures/quail_island_habitat_denoised.png)
 
 ## Related Code & Citation
 
