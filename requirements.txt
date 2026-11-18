@@ -1,0 +1,16 @@
+**`requirements.txt`** (covers both the RGB GMM and Sentinel-2 NDVI scripts):
+```text
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+rasterio
+rioxarray
+xarray
+pyproj
+h5py
+Pillow
+requests
+pystac-client
+stackstac
